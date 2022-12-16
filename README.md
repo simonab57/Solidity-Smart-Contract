@@ -3,3 +3,5 @@ This project will focuse on building a smart contract that will host a joint sav
 
 ## Technology
 Solidity, Ethereum Blockchain, Smart Contract, Remix
+
+## Results
